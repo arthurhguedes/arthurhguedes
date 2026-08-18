@@ -59,29 +59,15 @@
 
 ## 💼 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/arthurhguedes/habit-tracker-aa">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurhguedes&repo=habit-tracker-aa&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/arthurhguedes/fedora-dotfiles">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurhguedes&repo=fedora-dotfiles&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/arthurhguedes/claude-usage-dank-widget">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurhguedes&repo=claude-usage-dank-widget&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**habit-tracker-aa**](https://github.com/arthurhguedes/habit-tracker-aa) | Aplicação para gestão de hábitos e tarefas | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**fedora-dotfiles**](https://github.com/arthurhguedes/fedora-dotfiles) | Configuração pessoal do ambiente Linux: shell, Zed, niri + DankMaterialShell, rofi | ![QML](https://img.shields.io/badge/-QML-41CD52?style=flat-square&logo=qt&logoColor=white) |
+| [**claude-usage-dank-widget**](https://github.com/arthurhguedes/claude-usage-dank-widget) | Widget para monitorar uso do Claude no desktop | ![QML](https://img.shields.io/badge/-QML-41CD52?style=flat-square&logo=qt&logoColor=white) |
 
 > 🔒 Também tenho projetos privados em andamento, como um **organizador acadêmico** (TypeScript) e um **To-do List em C** focado em aprendizado de estruturas de dados.
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arthurhguedes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhguedes&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurhguedes&theme=tokyonight&hide_border=true" />
