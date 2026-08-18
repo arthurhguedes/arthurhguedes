@@ -57,6 +57,25 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+## 💼 Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/arthurhguedes/habit-tracker-aa">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurhguedes&repo=habit-tracker-aa&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/arthurhguedes/fedora-dotfiles">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurhguedes&repo=fedora-dotfiles&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/arthurhguedes/claude-usage-dank-widget">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurhguedes&repo=claude-usage-dank-widget&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> 🔒 Também tenho projetos privados em andamento, como um **organizador acadêmico** (TypeScript) e um **To-do List em C** focado em aprendizado de estruturas de dados.
+
 ## 📊 GitHub Stats
 
 <div align="center">
