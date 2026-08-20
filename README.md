@@ -26,6 +26,26 @@
 - 📚 Sempre estudando — de linguagens de sistema (C) a ferramentas modernas de backend
 - 📫 Bora trocar ideia? Me chama no LinkedIn ou Instagram acima
 
+## 🌟 Projeto principal
+
+### [Notary](https://github.com/arthurhguedes/organizador-faculdade) — organizador acadêmico full-stack
+
+<a href="https://github.com/arthurhguedes/organizador-faculdade">
+  <img src="https://raw.githubusercontent.com/arthurhguedes/organizador-faculdade/main/docs/screenshots/dashboard.png" alt="Dashboard do Notary" width="100%" />
+</a>
+
+App pessoal pra organizar matérias, horários, provas e notas sem depender do portal capenga da faculdade. Os destaques técnicos: parsing de PDF (matrícula, histórico, plano de ensino) e planilha de oferta de disciplinas 100% no navegador, importação genérica por instituição (mapeamento de colunas com memória por faculdade), montador de grade com detecção de conflito de horário, autenticação real multi-tenant com Better Auth (email/senha + Google).
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-149ECA?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+</p>
+
+**[→ Ver repositório, capturas de tela e como rodar](https://github.com/arthurhguedes/organizador-faculdade)**
+
 ## 🛠️ Tecnologias
 
 **Linguagens**
@@ -59,7 +79,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 💼 Projetos em destaque
+## 📦 Outros projetos
 
 | Projeto | Descrição | Stack |
 |---|---|---|
@@ -68,7 +88,7 @@
 | [**claude-usage-dank-widget**](https://github.com/arthurhguedes/claude-usage-dank-widget) | Widget para monitorar uso do Claude no desktop | ![QML](https://img.shields.io/badge/-QML-41CD52?style=flat-square&logo=qt&logoColor=white) |
 | [**github-streak-dank-widget**](https://github.com/arthurhguedes/github-streak-dank-widget) | Widget que mostra o streak de dias com contribuições no GitHub | ![QML](https://img.shields.io/badge/-QML-41CD52?style=flat-square&logo=qt&logoColor=white) |
 
-> 🔒 Também tenho projetos privados em andamento, como um **organizador acadêmico** (TypeScript) e um **To-do List em C** focado em aprendizado de estruturas de dados.
+> 🔒 Também tenho um projeto privado em andamento: um **To-do List em C** focado em aprendizado de estruturas de dados.
 
 ## 📊 GitHub Stats
 
