@@ -87,8 +87,7 @@ App pessoal pra organizar matérias, horários, provas e notas sem depender do p
 | [**fedora-dotfiles**](https://github.com/arthurhguedes/fedora-dotfiles) | Configuração pessoal do ambiente Linux: shell, Zed, niri + DankMaterialShell, rofi | ![QML](https://img.shields.io/badge/-QML-41CD52?style=flat-square&logo=qt&logoColor=white) |
 | [**claude-usage-dank-widget**](https://github.com/arthurhguedes/claude-usage-dank-widget) | Widget para monitorar uso do Claude no desktop | ![QML](https://img.shields.io/badge/-QML-41CD52?style=flat-square&logo=qt&logoColor=white) |
 | [**github-streak-dank-widget**](https://github.com/arthurhguedes/github-streak-dank-widget) | Widget que mostra o streak de dias com contribuições no GitHub | ![QML](https://img.shields.io/badge/-QML-41CD52?style=flat-square&logo=qt&logoColor=white) |
-
-> 🔒 Também tenho um projeto privado em andamento: um **To-do List em C** focado em aprendizado de estruturas de dados.
+| [**To-do-List-em-C**](https://github.com/arthurhguedes/To-do-List-em-C) | Lista de tarefas em C, focado em aprendizado de estruturas de dados | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
 
 ## 📊 GitHub Stats
 
