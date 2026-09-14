@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Arthur%20Guedes&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend+Developer+%7C+Freelance+%26+IA&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Arthur%20Guedes&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend+Developer+%7C+Freelance+e+IA&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Fazendo+sites+e+landing+pages+freelance+%F0%9F%8C%90;Construindo+APIs+com+Fastify+%2B+PostgreSQL;Estudando+Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Aprendendo+algo+novo+todos+os+dias+%F0%9F%9A%80" alt="Typing SVG" />
