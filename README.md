@@ -47,6 +47,20 @@ App pessoal pra organizar matérias, horários, provas e notas sem depender do p
 
 **[→ Ver repositório, capturas de tela e como rodar](https://github.com/arthurhguedes/organizador-faculdade)**
 
+## 🤝 Case com cliente real
+
+### [Capítulo Harmonia e Paz nº 496](https://harmoniaepaz.org) — landing page institucional
+
+Site institucional em produção para uma organização real, do domínio ao ar: domínio próprio, deploy na Vercel, Search Console configurado e SEO técnico completo (sitemap, canonical, Open Graph, `robots.txt`). Headers de segurança acima do padrão de landing page freelance (CSP restritiva, HSTS com preload, `X-Frame-Options: DENY`, `Permissions-Policy`).
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-técnico-34A853?style=flat-square&logo=googlesearchconsole&logoColor=white" />
+</p>
+
+**[→ harmoniaepaz.org](https://harmoniaepaz.org)**
+
 ## 🛠️ Tecnologias
 
 **Linguagens**
