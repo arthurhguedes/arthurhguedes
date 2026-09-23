@@ -85,21 +85,18 @@ Site institucional em produção para uma organização real: domínio próprio,
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## Outros projetos
+<details>
+<summary>Outros projetos</summary>
+<br>
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**fedora-dotfiles**](https://github.com/arthurhguedes/fedora-dotfiles) | Configuração pessoal do ambiente Linux: shell, Zed, niri + DankMaterialShell, rofi | ![QML](https://img.shields.io/badge/-QML-41CD52?style=flat-square&logo=qt&logoColor=white) |
-| [**claude-usage-dank-widget**](https://github.com/arthurhguedes/claude-usage-dank-widget) | Widget para monitorar uso do Claude no desktop | ![QML](https://img.shields.io/badge/-QML-41CD52?style=flat-square&logo=qt&logoColor=white) |
-| [**github-streak-dank-widget**](https://github.com/arthurhguedes/github-streak-dank-widget) | Widget que mostra o streak de dias com contribuições no GitHub | ![QML](https://img.shields.io/badge/-QML-41CD52?style=flat-square&logo=qt&logoColor=white) |
-| [**To-do-List-em-C**](https://github.com/arthurhguedes/To-do-List-em-C) | Lista de tarefas em C, focado em aprendizado de estruturas de dados | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
+- [fedora-dotfiles](https://github.com/arthurhguedes/fedora-dotfiles): configuração pessoal do ambiente Linux (shell, Zed, niri, rofi)
+- [claude-usage-dank-widget](https://github.com/arthurhguedes/claude-usage-dank-widget): widget para monitorar uso do Claude no desktop
+- [github-streak-dank-widget](https://github.com/arthurhguedes/github-streak-dank-widget): widget que mostra o streak de contribuições no GitHub
+- [To-do-List-em-C](https://github.com/arthurhguedes/To-do-List-em-C): lista de tarefas em C, aprendizado de estruturas de dados
+
+</details>
 
 ## GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arthurhguedes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhguedes&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurhguedes&theme=tokyonight&hide_border=true" />
